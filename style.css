@@ -258,3 +258,13 @@ top:80px !important;
 .text-very-small{
     font-size: xx-small;
 }
+/*FOR HANDLE OUR TEAM MEMBER MARGIN  */
+.m-15-0{
+    margin-top: 0;
+}
+@media (max-width:550px) {
+    .m-15-0{
+        margin-top: 15px;
+    }
+        
+}
