@@ -6,6 +6,7 @@
 }
 body::-webkit-scrollbar {
     display: none;
+    
 }
 html{
     scroll-behavior: smooth;
@@ -76,6 +77,7 @@ a{
     color: #211458;
 }
 .background_img{
+    overflow-x: hidden;
     position: relative;
 }
 .background_img:before {
