@@ -6,7 +6,7 @@ let handleMargin=()=>{
         // CODE FOR EXPAND MARGIN
         // console.log("INSIDE TRUE")
         document.querySelectorAll('.top-text').forEach(item => {
-            item.style.setProperty('margin-top','315px')
+            item.style.setProperty('margin-top','325px')
         });
 
 
